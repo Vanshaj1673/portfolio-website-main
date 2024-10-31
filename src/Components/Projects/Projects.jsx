@@ -25,7 +25,7 @@ const Projects = () => {
           main="This is my portfolio website made using React JS, HTML, CSS, Tailwind, and JavaScript."
           image={portfolioImg} // Project image
           demoVideo={portfolioVideo} // Video source
-          sourceCodeLink="https://github.com/Vanshaj1673/Portfolio"
+          sourceCodeLink="https://github.com/Vanshaj1673/portfolio-website-main"
         />
         <ProjectCard
           title="Online Movie Ticket Booking System"
